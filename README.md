@@ -1,4 +1,4 @@
-# Inherd
+# Inherd OpenSource Group
 
 开源是一项非常迷人的活动，一场追求自由的事业。
 
